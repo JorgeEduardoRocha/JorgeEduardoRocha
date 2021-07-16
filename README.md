@@ -1,7 +1,5 @@
--Hi, I’m @JorgeEduardoRocha
--I’m interested in Hardware and open source
--I’m currently learning Linux, Arduino and IoT
--I’m looking to learn as much as I can 
+-Hi
+
 
 <!---
 JorgeEduardoRocha/JorgeEduardoRocha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
